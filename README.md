@@ -7,6 +7,12 @@ Uses [Libre translate](https://libretranslate.com/)
 - Install the latest python interpreter
 - Tested on Python==3.10.5
 - Clone this repository
+
+```
+git clone https://github.com/ToniKousek/translate-game.git
+cd translate-game
+```
+
 - Download packages
 
 ```
