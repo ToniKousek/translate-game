@@ -33,3 +33,12 @@ libretranslate
 libretranslate --disable-files-translation --disable-web-ui
 python main.py
 ```
+
+## To play with a UI:
+
+```
+libretranslate --disable-files-translation --disable-web-ui
+python ui.py
+```
+
+UI is coded in [tkinter](https://docs.python.org/3/library/tkinter.html)
